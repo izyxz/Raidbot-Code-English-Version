@@ -14,8 +14,7 @@ This project is intended for **educational and experimental** purposes, showing 
 - Windows
 
 Install them with:
-```Setup.Py
-```
+```Setup.Py```
 ---
 
 RaidBot not only includes classic administration and raid commands.
